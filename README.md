@@ -9,3 +9,10 @@ Paper link is provided [here](https://openaccess.thecvf.com/content_CVPR_2019/pa
 Representation Similarity Analysis (RSA) is to measure the similarity of the feature maps extracted by two models. </br>
 The paper suggested that "RSA could beused for deciding different branching out locations for different tasks, depending on their similarity with the representations at different depth of the shared root". </br>
 Thus, this repo only reproduce the RSA method proposed by the CVPR paper, to test this hyphothesis. </br>
+
+## Visual Graphic
+
+<img src="https://github.com/yjwong1999/Representation-Similarity-Analysis/blob/main/data/RDM.jpg" 
+     alt="RDM" width=600><br>
+<img src="https://github.com/yjwong1999/Representation-Similarity-Analysis/blob/main/data/RSA.jpg" 
+     alt="RDM" width=600><br>
